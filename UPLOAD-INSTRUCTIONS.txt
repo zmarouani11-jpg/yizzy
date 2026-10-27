@@ -1,0 +1,22 @@
+YIZZY.BEATS — COMPLETE WEBSITE PACKAGE
+
+This ZIP includes:
+- index.html
+- styles.css
+- script.js
+- assets/beats/ (5 playable MP3 previews + 5 JPG cover images)
+
+IMPORTANT: Do not upload only index.html. The assets/beats folder is required for audio and cover images.
+
+HOW TO UPDATE YOUR GITHUB PAGES REPOSITORY
+1. Extract this ZIP on your computer.
+2. Open your repository: https://github.com/zmarouani11-jpg/yizzy.beats
+3. Click Add file > Upload files.
+4. Open the extracted Yizzy-Beats-Website folder and select ALL items inside it, including the assets folder. Drag them into the GitHub upload area.
+5. Make sure assets/beats/ is included and that it contains all 10 files.
+6. Commit changes to the branch configured in Settings > Pages.
+7. Wait for the GitHub Pages deployment to finish, then open the website and press Ctrl+F5.
+
+If GitHub's browser uploader does not preserve a folder when dragging it, use GitHub Desktop or upload each file while preserving the assets/beats/ directory structure.
+
+Audio files were checked with ffprobe and have valid durations. All five JPG cover images are present and readable. This package has not been deployed to GitHub by ChatGPT.
